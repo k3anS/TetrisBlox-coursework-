@@ -1,0 +1,19 @@
+body {
+    margin:0;
+    background-color: black;
+}
+
+#game {
+    padding: 3rem;
+    text-align: center;
+    text-indent: -450px;
+}
+#game h1 {
+    
+    color: aliceblue;
+    font-family:'Courier New', Courier, monospace;
+}
+#game canvas {
+    display: block;
+    margin: 0 auto;
+}
